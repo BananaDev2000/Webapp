@@ -6238,11 +6238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leerling\\Desktop\\MiniWebsite\\MiniWebsite\\MiniWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\leerling\\Desktop\\Webapp\\MiniWebsite\\MiniWebsite\\MiniWebsite.csproj",
       "projectName": "MiniWebsite",
-      "projectPath": "C:\\Users\\leerling\\Desktop\\MiniWebsite\\MiniWebsite\\MiniWebsite.csproj",
+      "projectPath": "C:\\Users\\leerling\\Desktop\\Webapp\\MiniWebsite\\MiniWebsite\\MiniWebsite.csproj",
       "packagesPath": "C:\\Users\\leerling\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leerling\\Desktop\\MiniWebsite\\MiniWebsite\\obj\\",
+      "outputPath": "C:\\Users\\leerling\\Desktop\\Webapp\\MiniWebsite\\MiniWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
