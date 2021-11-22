@@ -1,0 +1,20 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using MiniWebsite.Models;
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace MiniWebsite.Controllers
+{
+    public class HomeController : Controller
+    {
+        public IActionResult Index(Gebruiker gebruiker)
+        {
+            gebruiker.start();
+            return View(gebruiker);
+        }
+    }
+}
